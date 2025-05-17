@@ -1,7 +1,8 @@
 # 💫 About Me <img src="https://komarev.com/ghpvc/?username=Abhinav14Rajan" alt="">
 Risk Analyst at G2 Risk Solutions. Experience in working with clients across industries — including finance, healthcare, and retail — to help them understand, assess, and mitigate the risks in their operations and data environments. My day-to-day involves analyzing large volumes of client data to uncover vulnerabilities, whether it's potential financial fraud, operational inefficiencies, or compliance gaps. I regularly use tools like Python, SQL, and Excel to analyse and visualize their data to quantify and mitigate potential threats.
 
-<img src="https://github.com/user-attachments/assets/0ad8c7fc-e58f-457d-82fd-3ea64d018008" width="100%" height="300px" alt="Image">
+<img src="https://github.com/user-attachments/assets/0ad8c7fc-e58f-457d-82fd-3ea64d018008" style="width: 100%;" alt="Image">
+
 
 <br>
 
